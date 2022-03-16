@@ -9,8 +9,11 @@ Copyright (C) 2022 by PrecisionAg Lab, Agronomy, KSU
 ##-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (1) Signal denoising and outlier removal
+
 Folder: Signal_denoising_outlier
+
 Data description: 
+
 ardec0710_excel.xlsx contains sample fluorescenec data (Multiplex3) over several plots.
 These are raw signal.
 
