@@ -1,10 +1,13 @@
 # Fluorescence_maize
 
 Assessing nitrogen variability at early stages of maize using mobile fluorescence sensing
+
 ##-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Copyright (C) 2022 by PrecisionAG, Agronomy, KSU
 
 ##-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 (1) Signal denoising and outlier removal
 Folder: Signal_denoising_outlier
 Data description: 
